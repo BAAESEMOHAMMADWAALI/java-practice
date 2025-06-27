@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Letarals {
     public static void main(String[] args) {
 
@@ -57,15 +55,15 @@ public class Letarals {
         // System.out.println(str2); 
     
       
-        Scanner sc = new Scanner (System.in);
-        System.out.println("Enter a");
-         int a = sc.nextInt();
-         float b = sc.nextFloat();
-         long c = sc.nextLong();
-         byte d = sc.nextByte();
-         sc.nextLine();
-         String s = sc.nextLine();
-         System.out.printf("%d\n%.3f\n%d\n%d\n%s\n",a,b,c,d,s);
+        // Scanner sc = new Scanner (System.in);
+        // System.out.println("Enter a");
+        //  int a = sc.nextInt();
+        //  float b = sc.nextFloat();
+        //  long c = sc.nextLong();
+        //  byte d = sc.nextByte();
+        //  sc.nextLine();
+        //  String s = sc.nextLine();
+        //  System.out.printf("%d\n%.3f\n%d\n%d\n%s\n",a,b,c,d,s);
     }
 }
     
