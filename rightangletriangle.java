@@ -1,6 +1,6 @@
-class Solution {
+class rightangletriangle {
     public static void main(String[] args) {
-        Solution sol = new Solution();
+        rightangletriangle sol = new rightangletriangle();
         sol.printPattern(5); // Example usage
     }
 

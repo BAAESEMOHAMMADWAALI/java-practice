@@ -1,4 +1,4 @@
-public class ForLoop {
+public class PrintEvenIndex {
     public void printEvenIndices(String s ){
         for (int i = 0; i < s.length(); i++) {
             if (i % 2 == 0) {
