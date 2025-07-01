@@ -64,6 +64,17 @@ public class Letarals {
         //  sc.nextLine();
         //  String s = sc.nextLine();
         //  System.out.printf("%d\n%.3f\n%d\n%d\n%s\n",a,b,c,d,s);
+
+       int number = 5;
+
+        if ((number & 1) != 0){
+         
+          System.out.println("Odd");
+        }
+        else {
+
+            System.out.println("Even");
+    }
     }
 }
     
